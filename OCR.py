@@ -105,7 +105,7 @@ def process_ocr():
 # GUI menggunakan Tkinter
 root = Tk()
 root.title("OCR Pencari Buku")
-root.geometry("600x600")
+root.geometry("600x700")
 
 # Memuat dataset
 dataset_path = "datas.csv"  # Ganti dengan path ke file dataset Anda
